@@ -1,5 +1,7 @@
-const ChatFeed = () => {
-  return <div>Chats</div>;
-};
+// import React from 'react';
 
-export default ChatFeed;
+// const ChatFeed = () => {
+//   return <h2>chats</h2>;
+// };
+
+// export default ChatFeed;
