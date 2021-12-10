@@ -9,7 +9,7 @@ const Login = () => {
   return (
     <div id='login-page'>
       <div id='login-card'>
-        <h2>Wecome to my chat</h2>
+        <h2 style={{ color: 'white' }}>ChatApp</h2>
         <div
           className='login-button google'
           onClick={() =>
